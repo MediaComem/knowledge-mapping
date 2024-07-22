@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="31px" viewBox="0 0 98 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.5,0.5 L3.5,30.567 L3.5,0.5 Z M3.5,30.567 L0.5,19.767 L6.5,19.767 L3.5,30.567 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ayahuasca_prod_8_11_2017" transform="translate(-401.000000, -705.000000)">
+            <g id="Group" transform="translate(401.000000, 705.000000)">
+                <path d="M48.5,0.5 L48.5,30.56659 L48.5,0.5 Z M48.5,30.56659 L51.5,19.76659 L45.5,19.76659 L48.5,30.56659 Z" id="Stroke-396" stroke="#000000" stroke-linecap="square"></path>
+                <path d="M0.5,0.5 L96.92095,0.5" id="Stroke-388" stroke="#000000" stroke-linecap="square"></path>
+                <g id="Group-395" transform="translate(45.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-394"></g>
+                    <polygon id="Fill-393" fill="#000000" mask="url(#mask-2)" points="-4.5 35.567 11.5 35.567 11.5 -4.49959 -4.5 -4.49959"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

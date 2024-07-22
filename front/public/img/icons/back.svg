@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/back</title>
+    <g id="Icon/back" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4.335937,1 L1,4.46875 L4.335937,7.9375 L5.054687,7.25 L2.867187,4.96875 L10.570312,4.96875 C10.851562,4.96875 11.070312,5.1875 11.070312,5.46875 L11.070312,12.96875 L12.070312,12.96875 L12.070312,5.46875 C12.070312,4.644531 11.394531,3.96875 10.570312,3.96875 L2.867187,3.96875 L5.054687,1.6875 L4.335937,1 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

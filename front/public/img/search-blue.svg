@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / ico-search-blue-24</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Search-mobile-2" transform="translate(-328.000000, -108.000000)" fill="#6473FA" fill-rule="nonzero">
+            <g id="Icon-/-ico-search-blue-24" transform="translate(327.000000, 107.000000)">
+                <path d="M21.8635692,24 L15.7939745,17.9304055 L17.9304054,15.7939746 L24,21.8635691 L21.8635692,24 Z M9.30876617,17.6175325 C4.71996133,17.6175325 1,13.8975711 1,9.30876623 C1,4.71996135 4.71996133,1 9.30876617,1 C13.897571,1 17.6175323,4.71996135 17.6175323,9.30876623 C17.6175323,13.8975711 13.897571,17.6175325 9.30876617,17.6175325 Z M9.30876617,14.5961629 C12.2289147,14.5961629 14.5961628,12.2289148 14.5961628,9.30876623 C14.5961628,6.38861767 12.2289147,4.02136954 9.30876617,4.02136954 C6.38861764,4.02136954 4.02136952,6.38861767 4.02136952,9.30876623 C4.02136952,12.2289148 6.38861764,14.5961629 9.30876617,14.5961629 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,59 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+/* Overall Style */
+:root {
+    --blue: #6473FA;
+    --lightBlue: #6473fa4f;
+    --mediumBlue: #6473fa91;
+    --yellow: #FFFBED;
+    --black: #111111;
+    --darkgray: #767676;
+    --lightgray: #c4c4c4; 
+  }
+
+body{
+    background: --yellow;
+}
+
+section.main-content,
+.page{
+    padding: 20px;
+}
+
+@media (min-width: 1025px) {
+    section.main-content{
+        margin-right: 180px;
+    }
+}
+
+.nb_papers_select{
+    width: 80px;
+    text-align: left;
+}
+
+
+
+.bg-yellow{
+    background-color: #FFFBED;
+}
+
+.nav-logo{
+   display: inline-block;
+   width: 50%;
+   margin: 0 auto;
+}
+
+.nav-logo img{
+    width: 100%;
+}
+
+.column{
+    float: left;
+}
+
+.column img{
+    max-width: 100%;
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/video-recording</title>
+    <g id="Icon/video-recording" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M1.5,2 C0.675782,2 0,2.675781 0,3.5 L0,10.5 C0,11.324219 0.675782,12 1.5,12 L12.5,12 C13.320313,12 14,11.324219 14,10.5 L14,3.5 C14,2.675781 13.324219,2 12.5,2 L1.5,2 Z M1.5,3 L12.5,3 C12.78125,3 13,3.21875 13,3.5 L13,10.5 C13,10.78125 12.78125,11 12.5,11 L1.5,11 C1.21875,11 1,10.78125 1,10.5 L1,3.5 C1,3.21875 1.21875,3 1.5,3 Z M5.011719,3.980469 L5.011719,10 L10.011719,6.988281 L5.011719,3.980469 Z M6.011719,5.746094 L8.074219,6.988281 L6.011719,8.230469 L6.011719,5.746094 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

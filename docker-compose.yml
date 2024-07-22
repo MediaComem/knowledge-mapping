@@ -1,0 +1,53 @@
+version: "3.7"
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: docker/laravel/Dockerfile
+      args:
+        LARAVEL_UID: "5000"
+        LARAVEL_GID: "5001"
+    container_name: kmap
+    working_dir: /var/www/
+    environment:
+            TZ: Europe/Zurich
+    volumes:
+      - shared-data:/var/www/data/
+      - shared-python:/var/www/python/
+    networks:
+      - kmap
+  python:
+    build:
+      context: ./
+      dockerfile: docker/python/Dockerfile
+      args:
+        LARAVEL_UID: "5000"
+        LARAVEL_GID: "5001"
+    container_name: kmap-python
+    working_dir: /var/www/
+    volumes:
+      - shared-data:/var/www/data/
+      - shared-python:/var/www/python/
+      - ./front/public/js/data:/var/www/public/data/
+
+    ports:
+      - 8080:8080
+    networks:
+      - kmap
+  nginx:
+    image: nginx:alpine
+    container_name: kmap-nginx
+    ports:
+      - 8000:80
+    volumes:
+      - ./front:/var/www
+      - ./docker/nginx:/etc/nginx/conf.d
+    networks:
+      - kmap
+
+networks:
+  kmap:
+
+volumes:
+  shared-data:
+  shared-python:

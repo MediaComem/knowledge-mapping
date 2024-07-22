@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/document</title>
+    <g id="Icon/document" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3.5,1 C2.675781,1 2,1.675781 2,2.5 L2,11.5 C2,12.324219 2.675781,13 3.5,13 L10.5,13 C11.324219,13 12,12.324219 12,11.5 L12,4.292969 L8.707031,1 L3.5,1 Z M3.5,2 L8,2 L8,5 L11,5 L11,11.5 C11,11.78125 10.78125,12 10.5,12 L3.5,12 C3.21875,12 3,11.78125 3,11.5 L3,2.5 C3,2.21875 3.21875,2 3.5,2 Z M9,2.707031 L10.292969,4 L9,4 L9,2.707031 Z M5,7 L5,8 L9,8 L9,7 L5,7 Z M5,9 L5,10 L8,10 L8,9 L5,9 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
